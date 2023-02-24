@@ -1,7 +1,4 @@
-const bag = {
-  fruit: "apple",
-  vegetable: "carrot",
-};
+const bag = { fruit: "apple", vegetable: "carrot" };
 console.log("bag", bag);
 
 const fruitFoods = [
